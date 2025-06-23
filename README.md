@@ -9,3 +9,4 @@ No. Dataset_name  Lab Name
 7] ecommerce -  Random Forest Algorithm
 8] Synthetic_Online_Retail  - K-Means Clustering 
 9] Synthetic_Online_Retail  - Hierarchical Clustering
+ 
